@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <link rel="shortcut icon" href="icons/galeria.ico" type="image/x-icon">
     <title>Subir</title>
     <link rel="stylesheet" href="css/tailwind.min.css">
 </head>
